@@ -32,7 +32,7 @@ const googleSignInStyles = css`
   &:hover {
     background-color: white;
     border: 1px solid #357ae8;
-    color: black;
+    color: #357ae8;
   }
 `;
 
