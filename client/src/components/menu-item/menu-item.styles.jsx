@@ -58,7 +58,7 @@ export const ContentContainer = styled.div`
   position: absolute;
 `;
 
-export const ContentTitle = styled.h1`
+export const ContentTitle = styled.span`
   font-weight: bold;
   margin-bottom: 6px;
   font-size: 22px;

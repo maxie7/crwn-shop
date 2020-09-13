@@ -21,7 +21,7 @@ const App = ({checkUserSession, currentUser}) => {
 
   return (
     <div>
-      <GlobalStyle/>
+      <GlobalStyle />
       <Header/>
       <Switch>
         <Route exact path='/' component={HomePage}/>

@@ -10,7 +10,7 @@ export const CollectionPreviewContainer = styled.div`
   }
 `;
 
-export const TitleContainer = styled.h1`
+export const TitleContainer = styled.span`
   cursor: pointer;
   font-size: 28px;
   margin-bottom: 25px;
