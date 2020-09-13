@@ -2,13 +2,13 @@ const INITIAL_STATE = {
   sections: [
     {
       title: 'hats',
-      imageUrl: 'https://i.ibb.co/Z6RdTHP/fashion-girl-hat-model-preview.jpg',
+      imageUrl: 'https://i.ibb.co/gtFc55J/Hats-shop.jpg',
       id: 1,
       linkUrl: 'shop/hats'
     },
     {
       title: 'jackets',
-      imageUrl: 'https://i.ibb.co/ZGBFF0X/jackets-shop.jpg',
+      imageUrl: 'https://i.ibb.co/SNwTT4L/Jackets-shop-3.jpg',
       id: 2,
       linkUrl: 'shop/jackets'
     },
