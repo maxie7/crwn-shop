@@ -1,5 +1,5 @@
 {
-  "short_name": "Fresh Moda",
+  "short_name": "Fresh-Moda",
   "name": "Fresh Moda Shop",
   "icons": [
     {
@@ -9,8 +9,8 @@
     },
     {
       "src": "/android-chrome-384x384.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "type": "image/png"
     },
     {
       "src": "/android-chrome-192x192.png",
