@@ -20,6 +20,8 @@ export const TitleContainer = styled.span`
   }
 `;
 
+TitleContainer.displayName = 'TitleContainer';
+
 export const PreviewContainer = styled.div`
   display: flex;
   justify-content: space-between;

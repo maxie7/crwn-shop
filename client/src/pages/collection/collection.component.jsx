@@ -12,7 +12,7 @@ import {
 
 import {firestore} from '../../firebase/firebase.utils';
 
-const CollectionPage = ({collection}) => {
+export const CollectionPage = ({collection}) => {
   useEffect(() => {
     console.log('...subscribing...');
     const unsubscribeFromCollections = firestore

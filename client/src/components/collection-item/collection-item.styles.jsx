@@ -44,6 +44,8 @@ export const BackgroundImage = styled.div`
   background-image: ${({ imageUrl }) => `url(${imageUrl})`};
 `;
 
+BackgroundImage.displayName = 'BackgroundImage';
+
 export const CollectionFooterContainer = styled.div`
   width: 100%;
   height: 5%;
@@ -52,15 +54,21 @@ export const CollectionFooterContainer = styled.div`
   font-size: 18px;
 `;
 
+CollectionFooterContainer.displayName = 'CollectionFooterContainer';
+
 export const NameContainer = styled.span`
   width: 90%;
   margin-bottom: 15px;
 `;
 
+NameContainer.displayName = 'NameContainer';
+
 export const PriceContainer = styled.span`
   text-align: right;
   width: 10%;
 `;
+
+PriceContainer.displayName = 'PriceContainer';
 
 export const AddButton = styled(CustomButton)`
   display: none;
@@ -76,3 +84,5 @@ export const AddButton = styled(CustomButton)`
     padding: 0 10px;
   }
 `;
+
+AddButton.displayName = 'AddButton';
