@@ -1,5 +1,5 @@
 ## Fresh Moda Shop testing project
 
-### Version 1.2.5
+### Version 1.2.7
 
-#### You can test it [here](http://fresh-moda.tk)
+#### You can test it [here](https://fresh-moda.netlify.app/)
